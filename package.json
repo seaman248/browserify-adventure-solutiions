@@ -1,0 +1,22 @@
+{
+  "name": "badv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1less.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seaman248/browserify-adventure-solutiions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seaman248/browserify-adventure-solutiions/issues"
+  },
+  "homepage": "https://github.com/seaman248/browserify-adventure-solutiions",
+  "devDependencies": {
+    "uniq": "^1.0.1"
+  }
+}
